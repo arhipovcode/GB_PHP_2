@@ -1,6 +1,8 @@
 <?php
 // подключаем автолоадер
+include "../config/main.php";
 include "../services/Autoloader.php";
+
 
 // пркидываем пространственные имена
 use app\services\Autoloader;
